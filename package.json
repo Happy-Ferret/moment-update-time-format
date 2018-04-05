@@ -1,0 +1,22 @@
+{
+  "name": "moment-update-time-format",
+  "version": "1.0.0",
+  "description": "Update global moment.js time format to be 24-hour or 12-hour.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Noitidart/moment-update-time-format.git"
+  },
+  "keywords": [
+    "moment.js"
+  ],
+  "author": "Noitidart <noitidart@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Noitidart/moment-update-time-format/issues"
+  },
+  "homepage": "https://github.com/Noitidart/moment-update-time-format#readme"
+}
