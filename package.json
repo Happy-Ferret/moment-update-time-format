@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/Noitidart/moment-update-time-format/issues"
   },
-  "homepage": "https://github.com/Noitidart/moment-update-time-format#readme"
+  "homepage": "https://github.com/Noitidart/moment-update-time-format#readme",
+  "peerDependencies": {
+    "moment": "^2.19.3"
+  }
 }
